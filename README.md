@@ -312,6 +312,6 @@ https://mariavaleriavarela.github.io/Proyecto3/
 
 Este proyecto me permitió aplicar conocimientos en HTML y CSS para crear una página web funcional y estética. Desde la planificación, el prototipado Y hasta el desarrollo. Cada paso fue crucial para asegurar que el producto final cumpliera con los requisitos y ofreciera una excelente experiencia de usuario.
 
-
+# Gracias!!
 
 
