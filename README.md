@@ -39,7 +39,7 @@ Con el prototipo como guía, construí la estructura básica del sitio utilizand
                 <a href="#" class="nav__logo">
                      <!-- Logo de la empresa -->
                   <img src="IMAGES/VP LOGO.png" alt="valeria pastelera" width="100">
-                  <span></span>
+                 
                 </a>
                 <div class="nav__menu__btn" id="menu-btn">
                     <i class="ri-menu-3-line"></i>
